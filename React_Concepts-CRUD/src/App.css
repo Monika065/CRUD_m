@@ -1,0 +1,23 @@
+.App {
+    text-align: center;
+    margin-top: 50px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .task-input {
+    margin-bottom: 20px;
+  }
+  
+  .task-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .completed {
+    text-decoration: line-through;
+  }
+  
+  li {
+    margin: 10px 0;
+  }
+  

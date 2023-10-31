@@ -1,0 +1,32 @@
+.form-container {
+  display: flex;
+  justify-content: space-around;
+  margin: 20px;
+}
+
+.form-inputs {
+  width: 45%;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+.user-table {
+  width: 45%;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 10px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+th {
+  background-color: #f2f2f2;
+}
